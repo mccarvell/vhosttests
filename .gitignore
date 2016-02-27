@@ -1,0 +1,5 @@
+.idea/
+/app1/node_modules/
+/app2/node_modules/
+/app3/node_modules/
+/proxy/node_modules/
